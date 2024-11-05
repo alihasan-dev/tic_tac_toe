@@ -1,17 +1,10 @@
 
 # tictactoe
 
-A new Flutter project.
 
-## Getting Started
+* Tic-Tac-Toe is a simple yet timeless game that’s perfect for learning the fundamentals of Flutter, a UI toolkit for building natively compiled applications for mobile, web, and desktop. By developing Tic-Tac-Toe in Flutter, you can gain a strong foundation in essential Flutter concepts, including state management, widgets, and event handling. Let’s explore how to create a basic Tic-Tac-Toe game in Flutter.
 
-This project is a starting point for a Flutter application.
+<br>
+<br>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/alihasan-dev/tic_tac_toe/blob/main/screenshot/First.png" width="300"/>          <img src="https://github.com/alihasan-dev/tic_tac_toe/blob/main/screenshot/Second.png" width="300"/>          <img src="https://github.com/alihasan-dev/tic_tac_toe/blob/main/screenshot/Four.png" width="300"/>          <img src="https://github.com/alihasan-dev/tic_tac_toe/blob/main/screenshot/Third.png" width="300"/>
