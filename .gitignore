@@ -1,0 +1,6 @@
+.dart_tool
+build/
+.DS_Store
+pubspec.lock
+android/.gradle
+android/.idea
